@@ -1,0 +1,31 @@
+@import 'rest.css';
+
+#page {
+	width: 75%;
+	margin: 0 auto;}
+
+body{
+	background-color: #00A7E1}
+link{
+	text-align: center;
+}
+
+ h1{
+	font-size: 2.5cm;
+	color: red;
+	text-align: center;
+}
+
+h5{
+	text-align: center;
+}
+
+}
+nav li{
+	display: inline-block;
+	margin: 10px;
+}
+
+header {
+	text-align: center;
+}
